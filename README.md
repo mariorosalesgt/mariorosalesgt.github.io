@@ -1,8 +1,8 @@
-Curriculum Vitae Experimental 
+# Curriculum Vitae Experimental 
 
 Este repositorio contiene una prueba experimental de lo que sera mi CV a futuro, fue usada la plantilla que dejo el Ingeniero de la Universidad en donde tengo el privilegio de estudiar
 
-Datos del Autor:
+# Datos del Autor:
 
 Mario Augusto Rosales Gomez
 
